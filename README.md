@@ -1,4 +1,4 @@
 # Games-demo
 this is my first git-
 <br>
-author - ankitpandey
+author - ankitpandey (games)
